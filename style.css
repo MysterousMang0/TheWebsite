@@ -1,0 +1,56 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+#welcome {
+    display: flex;
+    justify-content: center;   
+    align-items: center;       
+    height: 100vh;             
+    text-align: center;
+    font-size: 3rem;    
+    font-family: arial;       
+}
+
+#introduction {
+    display: flex;
+    justify-content: center;   
+    align-items: center;       
+    height: 50vh;             
+    text-align: center;
+    font-size: 3rem;   
+
+    font-family: Arial;
+    background-color: #f0f0f0;
+    color: #333333; 
+    padding: 20px;
+    font-size: 30px;
+}
+
+#theSecondTextThing {
+    display: flex;
+    justify-content: center;   
+    align-items: center;       
+    height:S 100vh;             
+    text-align: center;
+    font-size: 3rem;    
+    font-family: arial;
+}
+
+#banner {
+    display: flex;
+    justify-content: center;   
+    align-items: center;       
+    height: 50vh;             
+    text-align: center;
+    font-size: 3rem;   
+
+    font-family: Arial;
+    background-color: #3d3b3b;
+    color: #333333; 
+    padding: 20px;
+    font-size: 25px;
+}

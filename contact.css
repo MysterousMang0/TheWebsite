@@ -1,0 +1,59 @@
+#banner {
+    display: flex;
+    justify-content: center;   
+    align-items: center;       
+    height: 50vh;             
+    text-align: center;
+    font-size: 3rem;   
+
+    font-family: Arial;
+    background-color: #3d3b3b;
+    color: #333333; 
+    padding: 20px;
+    font-size: 25px;
+}
+
+#welcome {
+    display: flex;
+    justify-content: center;   
+    align-items: center;       
+    height: 50vh;             
+    text-align: center;
+    font-size: 3rem;   
+
+    font-family: Arial;
+    background-color: #f0f0f0;
+    color: #333333; 
+    padding: 20px;
+    font-size: 30px;
+}
+
+#contactInformation {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: arial;
+}
+
+#instructions {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: arial;
+}
+
+#voorbeeld {
+    display: flex;
+    justify-content: center;   
+    align-items: left;       
+    height: 50vh;             
+    text-align: center;
+    font-size: 3rem;   
+
+    font-family: Arial;
+    background-color: #f0f0f0;
+    color: #333333; 
+    padding: 20px;
+    font-size: 20px;
+}
+

@@ -1,0 +1,14 @@
+#banner {
+    display: flex;
+    justify-content: center;   
+    align-items: center;       
+    height: 50vh;             
+    text-align: center;
+    font-size: 3rem;   
+
+    font-family: Arial;
+    background-color: #3d3b3b;
+    color: #333333; 
+    padding: 20px;
+    font-size: 25px;
+}
